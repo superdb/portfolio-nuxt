@@ -101,7 +101,7 @@ const projects = ref([
       <!-- CTA Button -->
       <div class="text-center mt-16">
         <a
-          href="https://github.com/superdb"
+          href="https://github.com/crimay21"
           target="_blank"
           class="inline-block px-8 py-3 bg-gradient-to-r from-purple-600 to-pink-600 text-white font-semibold rounded-lg hover:shadow-lg hover:shadow-purple-500/50 transition transform hover:scale-105"
         >

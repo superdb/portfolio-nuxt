@@ -58,7 +58,7 @@
         <!-- Redes sociales -->
         <div class="flex justify-center gap-6">
           <a
-            href="https://github.com/superdb"
+            href="https://github.com/crimay21"
             target="_blank"
             class="text-gray-400 hover:text-purple-400 transition transform hover:scale-110"
             aria-label="GitHub"
